@@ -9,11 +9,11 @@ As a team, answer the following questions about your project:
 3. What will bring users to use this app?
 
 
-### Write user stories
+### Discuss and write user stories
 
 
 User stories are short, simple descriptions of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. They typically follow a simple template:
 
 As a (type of user), I want (some goal) so that (some reason).
 
-User stories are often written on index cards or sticky notes, stored in a shoe box, and arranged on walls or tables to facilitate planning and discussion. As such, they strongly shift the focus from writing about features to discussing them. In fact, these discussions are more important than whatever text is written.
+User stories are often written on index cards or sticky notes and arranged on walls or tables to facilitate planning and discussion. As such, they strongly shift the focus from writing about features to discussing them. In fact, these discussions are more important than whatever text is written.
