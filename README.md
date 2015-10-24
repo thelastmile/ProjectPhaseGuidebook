@@ -14,4 +14,4 @@ Here is a timeline for the next six weeks.
  
 ![](Screen Shot 2015-10-24 at 4.23.20 PM.png)
 
-The following chapters describe each week more in
+The following articles describe each week more detail.
