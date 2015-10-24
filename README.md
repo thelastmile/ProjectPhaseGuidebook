@@ -1,4 +1,4 @@
-# Introduction
+# Project Phase
 Welcome to the Project Phase. For the next six weeks you will be working in teams to build advanced functional apps. To do this well, your team will need to work together effectively.
 
 Elements to effective collaboration for software development:
