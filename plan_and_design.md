@@ -16,3 +16,5 @@ What tools are you going to use? What data objects will you need to create (shop
 
 Create a plan for how you are going to construct this app. Try and tackle the hard parts early on. If you are unsure if a technical implementation is going to work, try it out right away to avoid getting stuck later.
 
+
+###Get your product roadmaps ready for when the mentors come to visit!
