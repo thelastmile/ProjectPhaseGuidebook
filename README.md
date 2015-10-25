@@ -8,10 +8,15 @@ Elements to effective collaboration for software development:
 3. Communicate often.
 4. ... I bet you can think of more!
 
+Your goal for the project kickoff is to create the following:
+1. User stories
+2. UX wireframes.
+3. Javascript Object specs
+4. Product Roadmap
+
 
 Here is a timeline for the next six weeks. 
 
  
 ![](Screen Shot 2015-10-24 at 4.23.20 PM.png)
 
-The following articles describe each week more detail.
