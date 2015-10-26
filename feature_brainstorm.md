@@ -1,4 +1,4 @@
-# Feature Brainstorm - Week 1
+# Feature Brainstorm - Week 1 Part I
 
 Review the pitchdeck for your business. Consider the business to be the 'client' that has employed you to build a website (aka 'app'). What is the best app that you can build for this business in six weeks?
 
