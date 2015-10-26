@@ -17,6 +17,4 @@ Your goal for the project kickoff is to create the following:
 
 Here is a timeline for the next six weeks. 
 
- 
-![](Screen Shot 2015-10-24 at 4.23.20 PM.png)
-
+![](Screen Shot 2015-10-26 at 9.35.27 AM.png)
