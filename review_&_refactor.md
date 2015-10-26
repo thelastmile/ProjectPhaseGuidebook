@@ -24,4 +24,5 @@ Identify what features may prove too complicated to build. Either come up with a
 Start with the feedback from user testing. What most needs to change about your app? Refactoring is the process of taking an existing project and revising it. You will need to refactor both the visual design and the code behind it.
 
 - Start with the design first. Improve the UX and UI as best you can with the feedback you're received from your testers (and mentors).
-- Then, revise your code to make it more simple and efficient. How can your Javascript methods and objects be rewritten to better align with the business logic of the app?
+- Then, revise your code to make it more simple and efficient. How can your Javascript methods and objects be rewritten to better align with the business logic of the app? 
+- Take some time to rewrite the most tangled and messy parts of the codebase, whether its HTML, CSS or Javascript.
