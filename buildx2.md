@@ -1,9 +1,14 @@
-# Buildx2
+# Release
 
-Now its time to build the app that will be the final product. Take what you've learned from the prototype and get ready to spend the next two weeks building the real deal.
+## Quality Assurance
 
-###Roadmap version 2
-Take into account everything you think you need to do between now and the project due date. Prioritize the most important tasks first. Don't save the hardest part for the end. Be clear on what features you will cancel first if time starts to run out. 
+It is very hard to inspect your own work for bugs. Quality Assurance work, aka QA, must be done by someone *other* than the primary author of the project. 
 
-###Feature Freeze
-At the end of the second build week, we are going to declare a 'feature freeze'. This means that no new features will be added. The following week will focus on Quality Assuarance (QA) to fix the bugs in time for Demo Day.
+Be thorough. Follow every possible user path through the app, to 'break' it as you go.
+
+Take careful notes of the issues you find and present them to the team to review and prioritize what should be fixed first.  
+
+
+# Ship it
+
+Most app creators make the mistake of waiting too long before releasing their first version. Don't do this. Start putting potential users in front of your product as early as possible. Their reactions to your work are the stars of the constellation you navigate by. Listen to the users and you won't get lost.
