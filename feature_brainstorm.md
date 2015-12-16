@@ -1,6 +1,6 @@
 # Feature Brainstorm - Week 1 Part I
 
-Review the pitchdeck for your business. Consider the business to be the 'client' that has employed you to build a website (aka 'app'). What is the best app that you can build for this business in six weeks?
+Where is your business idea coming from? Do you have a pitchdeck or business plan to review? Consider the business to be the 'client' that has employed you to build a website (aka 'app'). What is the best app that you can build for this business in four weeks?
 
 As a team, answer the following questions about your project:
 
@@ -9,7 +9,8 @@ As a team, answer the following questions about your project:
 3. What will bring users to use this app?
 
 
-### Discuss and write user stories
+# Write user stories
+
 
 
 User stories are short, simple descriptions of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. They typically follow a simple template:
